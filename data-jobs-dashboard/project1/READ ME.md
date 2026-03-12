@@ -1,5 +1,5 @@
 # Dashboard de Mercado de Dados (Power BI)
-![Página 1 do Dashboard](/Projeto%20Dashboards/Imagens/Projeto%20Power%20BI%20-%20p.1.jpg)
+![Página 1 do Dashboard](/data-jobs-dashboard/images/Projeto%20Power%20BI%20-%20p.1.jpg)
 
 ## Introdução
 Este projeto apresenta um dashboard desenvolvido em Power BI para analisar o mercado global de vagas na área de dados em 2024, explorando informações como cargos, salários e distribuição geográfica das oportunidades.
@@ -38,13 +38,13 @@ O relatório não é estático, ele foi desenhado para ser explorado:
 
 ### 1ª Página: Panorama Geral do Mercado
 
-![Página 1 do Dashboard](/Projeto%20Dashboards/Imagens/Projeto%20Power%20BI%20-%20p.1.jpg)
+![Página 1 do Dashboard](/data-jobs-dashboard/images/Projeto%20Power%20BI%20-%20p.1.jpg)
 
 Esta é a central de controle do mercado de dados. Apresenta KPIs importantes como contagem total de vagas, salários medianos e cargos mais comuns, oferecendo uma visão rápida do que está acontecendo no mercado de trabalho.
 
 ### 2ª Página: Detalhes por Cargo (Drill-Through)
 
-![Página 2 do Dashboard](/Projeto%20Dashboards/Imagens/Projeto%20Power%20BI%20-%20p.2.jpg)
+![Página 2 do Dashboard](/data-jobs-dashboard/images/Projeto%20Power%20BI%20-%20p.2.jpg)
 
 Esta é a página de análise profunda. Utilizando a funcionalidade de Drill-Through, o usuário sai do resumo e mergulha em detalhes específicos de um cargo, incluindo informações como a análise geoespacial indicando onde estão as melhores oportunidades e quais plataformas dominam as contratações em cada categoria.
 
